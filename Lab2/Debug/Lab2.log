@@ -1,3 +1,3 @@
 ﻿  Lab2.cpp
-c:\users\nik_j\source\repos\paralelnisistemi\lab2\lab2.cpp(16): warning C4101: 'id': unreferenced local variable
+c:\users\nik_j\source\repos\paralelnisistemi\lab2\lab2.cpp(21): warning C4101: 'coord': unreferenced local variable
   Lab2.vcxproj -> C:\Users\nik_j\source\repos\ParalelniSistemi\Debug\Lab2.exe

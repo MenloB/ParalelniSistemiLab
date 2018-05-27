@@ -1,0 +1,4 @@
+﻿  Lab 3.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\nik_j\source\repos\paralelnisistemi\lab 3\lab 3.cpp(12): warning C4101: 'c': unreferenced local variable
+  Lab 3.vcxproj -> C:\Users\nik_j\source\repos\ParalelniSistemi\Debug\Lab 3.exe
